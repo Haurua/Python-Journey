@@ -12,7 +12,7 @@ btn_font = ("PT Sans", 12)
 head_font = ("PT Sans", 18)
 
 # ***** API Key and URL variables
-api_key = "9e1a3e4359429e810034fswf165c08728"
+api_key = "*****************************"
 url_weather = "http://api.openweathermap.org/data/2.5/weather?q="
 
 
